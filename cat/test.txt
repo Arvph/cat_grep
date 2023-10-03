@@ -1,0 +1,10 @@
+
+Please note that these steps may not directly provide a list of all 
+devices connected to a user's Alexa, such as their Echo devices. 
+As of my last update, Amazon does not provide a public API to retrieve this information.
+
+
+
+    Also, please note that Amazon's APIs may \t have changed\n after 
+my last update in September 2021. Always refer to the latest official 
+    documentation for the most accurate information.
