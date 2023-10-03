@@ -143,7 +143,6 @@ int is_letter(char ch){
 
 void file_operations (int argc, char* argv[], char keys[]){
     char filename[50];
-    int file_count = file_quantity(argc, argv);
     int address=0;
 
     for (int i = 1; i < argc; i++){

@@ -6,7 +6,6 @@ void match(char* keys, FILE* myfile){
     int num_n=1;
     int lin_num=1;
     int num_s=0;
-    int len = strlen(keys);
     int lines = line_count(myfile);
 
     if (strlen(keys)==0){
